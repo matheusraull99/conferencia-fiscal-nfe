@@ -1,0 +1,10 @@
+origem,descricao,aliquota_4_res_sf_13_2012
+0,Nacional,N
+1,Estrangeira - importação direta,S
+2,Estrangeira - adquirida no mercado interno,S
+3,Nacional com conteúdo de importação superior a 40% e até 70%,S
+4,Nacional produzida conforme processo produtivo básico (PPB),N
+5,Nacional com conteúdo de importação de até 40%,N
+6,Estrangeira - importação direta sem similar nacional (lista CAMEX),N
+7,Estrangeira - mercado interno sem similar nacional (lista CAMEX),N
+8,Nacional com conteúdo de importação superior a 70%,S

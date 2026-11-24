@@ -1,0 +1,198 @@
+<?xml version='1.0' encoding='utf-8'?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+  <NFe>
+    <infNFe Id="NFe52261052175656000149550010000339961659200050" versao="4.00">
+      <ide>
+        <cUF>52</cUF>
+        <cNF>65920005</cNF>
+        <natOp>Venda de mercadoria</natOp>
+        <mod>55</mod>
+        <serie>1</serie>
+        <nNF>33996</nNF>
+        <dhEmi>2026-10-10T16:07:00-03:00</dhEmi>
+        <tpNF>1</tpNF>
+        <idDest>1</idDest>
+        <cMunFG>5208707</cMunFG>
+        <tpImp>1</tpImp>
+        <tpEmis>1</tpEmis>
+        <cDV>0</cDV>
+        <tpAmb>2</tpAmb>
+        <finNFe>1</finNFe>
+        <indFinal>0</indFinal>
+        <indPres>9</indPres>
+        <procEmi>0</procEmi>
+        <verProc>gerador-ficticio 1.0</verProc>
+      </ide>
+      <emit>
+        <CNPJ>52175656000149</CNPJ>
+        <xNome>Atacadista Cerrado Fictício Ltda</xNome>
+        <enderEmit>
+          <xLgr>Avenida das Indústrias</xLgr>
+          <nro>201</nro>
+          <xBairro>Distrito Industrial</xBairro>
+          <cMun>5208707</cMun>
+          <xMun>Goiânia</xMun>
+          <UF>GO</UF>
+          <CEP>74000506</CEP>
+          <cPais>1058</cPais>
+          <xPais>Brasil</xPais>
+        </enderEmit>
+        <IE>325727008</IE>
+        <CRT>3</CRT>
+      </emit>
+      <dest>
+        <CNPJ>25988000000172</CNPJ>
+        <xNome>NF-E EMITIDA EM AMBIENTE DE HOMOLOGACAO - SEM VALOR FISCAL</xNome>
+        <enderDest>
+          <xLgr>Avenida das Indústrias</xLgr>
+          <nro>1154</nro>
+          <xBairro>Distrito Industrial</xBairro>
+          <cMun>5208707</cMun>
+          <xMun>Goiânia</xMun>
+          <UF>GO</UF>
+          <CEP>74000614</CEP>
+          <cPais>1058</cPais>
+          <xPais>Brasil</xPais>
+        </enderDest>
+        <indIEDest>1</indIEDest>
+        <IE>443043868</IE>
+      </dest>
+      <det nItem="1">
+        <prod>
+          <cProd>AC-IN10</cProd>
+          <cEAN>SEM GTIN</cEAN>
+          <xProd>Interruptor simples 10 A</xProd>
+          <NCM>85365090</NCM>
+          <CFOP>5102</CFOP>
+          <uCom>UN</uCom>
+          <qCom>100.0000</qCom>
+          <vUnCom>10.2000</vUnCom>
+          <vProd>1020.00</vProd>
+          <cEANTrib>SEM GTIN</cEANTrib>
+          <uTrib>UN</uTrib>
+          <qTrib>100.0000</qTrib>
+          <vUnTrib>10.2000</vUnTrib>
+          <vDesc>30.60</vDesc>
+          <indTot>1</indTot>
+        </prod>
+        <imposto>
+          <ICMS>
+            <ICMS00>
+              <orig>0</orig>
+              <CST>00</CST>
+              <modBC>3</modBC>
+              <vBC>989.40</vBC>
+              <pICMS>19.0000</pICMS>
+              <vICMS>187.99</vICMS>
+            </ICMS00>
+          </ICMS>
+          <PIS>
+            <PISAliq>
+              <CST>01</CST>
+              <vBC>989.40</vBC>
+              <pPIS>1.6500</pPIS>
+              <vPIS>16.33</vPIS>
+            </PISAliq>
+          </PIS>
+          <COFINS>
+            <COFINSAliq>
+              <CST>01</CST>
+              <vBC>989.40</vBC>
+              <pCOFINS>7.6000</pCOFINS>
+              <vCOFINS>75.19</vCOFINS>
+            </COFINSAliq>
+          </COFINS>
+        </imposto>
+      </det>
+      <det nItem="2">
+        <prod>
+          <cProd>AC-AG50</cProd>
+          <cEAN>SEM GTIN</cEAN>
+          <xProd>Água mineral 500 ml fardo c/ 12</xProd>
+          <NCM>22011000</NCM>
+          <CFOP>5405</CFOP>
+          <uCom>FD</uCom>
+          <qCom>1.0000</qCom>
+          <vUnCom>14.7200</vUnCom>
+          <vProd>14.72</vProd>
+          <cEANTrib>SEM GTIN</cEANTrib>
+          <uTrib>FD</uTrib>
+          <qTrib>1.0000</qTrib>
+          <vUnTrib>14.7200</vUnTrib>
+          <vDesc>0.44</vDesc>
+          <indTot>1</indTot>
+        </prod>
+        <imposto>
+          <ICMS>
+            <ICMS60>
+              <orig>0</orig>
+              <CST>60</CST>
+            </ICMS60>
+          </ICMS>
+          <PIS>
+            <PISAliq>
+              <CST>01</CST>
+              <vBC>14.28</vBC>
+              <pPIS>1.6500</pPIS>
+              <vPIS>0.24</vPIS>
+            </PISAliq>
+          </PIS>
+          <COFINS>
+            <COFINSAliq>
+              <CST>01</CST>
+              <vBC>14.28</vBC>
+              <pCOFINS>7.6000</pCOFINS>
+              <vCOFINS>1.09</vCOFINS>
+            </COFINSAliq>
+          </COFINS>
+        </imposto>
+      </det>
+      <total>
+        <ICMSTot>
+          <vBC>989.40</vBC>
+          <vICMS>187.99</vICMS>
+          <vICMSDeson>0.00</vICMSDeson>
+          <vFCP>0.00</vFCP>
+          <vBCST>0.00</vBCST>
+          <vST>0.00</vST>
+          <vFCPST>0.00</vFCPST>
+          <vFCPSTRet>0.00</vFCPSTRet>
+          <vProd>1034.72</vProd>
+          <vFrete>0.00</vFrete>
+          <vSeg>0.00</vSeg>
+          <vDesc>31.04</vDesc>
+          <vII>0.00</vII>
+          <vIPI>0.00</vIPI>
+          <vIPIDevol>0.00</vIPIDevol>
+          <vPIS>16.57</vPIS>
+          <vCOFINS>76.28</vCOFINS>
+          <vOutro>0.00</vOutro>
+          <vNF>1003.68</vNF>
+        </ICMSTot>
+      </total>
+      <transp>
+        <modFrete>0</modFrete>
+      </transp>
+      <pag>
+        <detPag>
+          <tPag>15</tPag>
+          <vPag>1003.68</vPag>
+        </detPag>
+      </pag>
+      <infAdic>
+        <infCpl>Documento fictício gerado para portfólio - sem valor fiscal.</infCpl>
+      </infAdic>
+    </infNFe>
+  </NFe>
+  <protNFe versao="4.00">
+    <infProt>
+      <tpAmb>2</tpAmb>
+      <verAplic>SVRS-FICTICIO</verAplic>
+      <chNFe>52261052175656000149550010000339961659200050</chNFe>
+      <dhRecbto>2026-10-10T16:07:00-03:00</dhRecbto>
+      <nProt>522377298345802</nProt>
+      <cStat>100</cStat>
+      <xMotivo>Autorizado o uso da NF-e</xMotivo>
+    </infProt>
+  </protNFe>
+</nfeProc>

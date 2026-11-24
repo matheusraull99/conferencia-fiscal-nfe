@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='utf-8'?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+  <NFe>
+    <infNFe Id="NFe35261096865468000118550010000797841366813704" versao="4.00">
+      <ide>
+        <cUF>35</cUF>
+        <cNF>36681370</cNF>
+        <natOp>Venda de mercadoria</natOp>
+        <mod>55</mod>
+        <serie>1</serie>
+        <nNF>79784</nNF>
+        <dhEmi>2026-10-20T11:42:00-03:00</dhEmi>
+        <tpNF>1</tpNF>
+        <idDest>2</idDest>
+        <cMunFG>3550308</cMunFG>
+        <tpImp>1</tpImp>
+        <tpEmis>1</tpEmis>
+        <cDV>4</cDV>
+        <tpAmb>2</tpAmb>
+        <finNFe>1</finNFe>
+        <indFinal>0</indFinal>
+        <indPres>9</indPres>
+        <procEmi>0</procEmi>
+        <verProc>gerador-ficticio 1.0</verProc>
+      </ide>
+      <emit>
+        <CNPJ>96865468000118</CNPJ>
+        <xNome>Metalúrgica Horizonte Fictícia Ltda</xNome>
+        <enderEmit>
+          <xLgr>Avenida das Indústrias</xLgr>
+          <nro>1843</nro>
+          <xBairro>Distrito Industrial</xBairro>
+          <cMun>3550308</cMun>
+          <xMun>São Paulo</xMun>
+          <UF>SP</UF>
+          <CEP>01310328</CEP>
+          <cPais>1058</cPais>
+          <xPais>Brasil</xPais>
+        </enderEmit>
+        <IE>210205473</IE>
+        <CRT>3</CRT>
+      </emit>
+      <dest>
+        <CNPJ>25988000000172</CNPJ>
+        <xNome>NF-E EMITIDA EM AMBIENTE DE HOMOLOGACAO - SEM VALOR FISCAL</xNome>
+        <enderDest>
+          <xLgr>Avenida das Indústrias</xLgr>
+          <nro>1995</nro>
+          <xBairro>Distrito Industrial</xBairro>
+          <cMun>5208707</cMun>
+          <xMun>Goiânia</xMun>
+          <UF>GO</UF>
+          <CEP>74000614</CEP>
+          <cPais>1058</cPais>
+          <xPais>Brasil</xPais>
+        </enderDest>
+        <indIEDest>1</indIEDest>
+        <IE>443043868</IE>
+      </dest>
+      <det nItem="1">
+        <prod>
+          <cProd>MH-100</cProd>
+          <cEAN>SEM GTIN</cEAN>
+          <xProd>Parafuso sextavado M8 zincado</xProd>
+          <NCM>77010000</NCM>
+          <CFOP>6101</CFOP>
+          <uCom>CT</uCom>
+          <qCom>150.0000</qCom>
+          <vUnCom>37.1300</vUnCom>
+          <vProd>5569.50</vProd>
+          <cEANTrib>SEM GTIN</cEANTrib>
+          <uTrib>CT</uTrib>
+          <qTrib>150.0000</qTrib>
+          <vUnTrib>37.1300</vUnTrib>
+          <indTot>1</indTot>
+        </prod>
+        <imposto>
+          <ICMS>
+            <ICMS00>
+              <orig>0</orig>
+              <CST>00</CST>
+              <modBC>3</modBC>
+              <vBC>5569.50</vBC>
+              <pICMS>7.0000</pICMS>
+              <vICMS>389.87</vICMS>
+            </ICMS00>
+          </ICMS>
+          <IPI>
+            <cEnq>999</cEnq>
+            <IPITrib>
+              <CST>50</CST>
+              <vBC>5569.50</vBC>
+              <pIPI>5.0000</pIPI>
+              <vIPI>278.48</vIPI>
+            </IPITrib>
+          </IPI>
+          <PIS>
+            <PISAliq>
+              <CST>01</CST>
+              <vBC>5569.50</vBC>
+              <pPIS>1.6500</pPIS>
+              <vPIS>91.90</vPIS>
+            </PISAliq>
+          </PIS>
+          <COFINS>
+            <COFINSAliq>
+              <CST>01</CST>
+              <vBC>5569.50</vBC>
+              <pCOFINS>7.6000</pCOFINS>
+              <vCOFINS>423.28</vCOFINS>
+            </COFINSAliq>
+          </COFINS>
+        </imposto>
+      </det>
+      <total>
+        <ICMSTot>
+          <vBC>5569.50</vBC>
+          <vICMS>389.87</vICMS>
+          <vICMSDeson>0.00</vICMSDeson>
+          <vFCP>0.00</vFCP>
+          <vBCST>0.00</vBCST>
+          <vST>0.00</vST>
+          <vFCPST>0.00</vFCPST>
+          <vFCPSTRet>0.00</vFCPSTRet>
+          <vProd>5569.50</vProd>
+          <vFrete>0.00</vFrete>
+          <vSeg>0.00</vSeg>
+          <vDesc>0.00</vDesc>
+          <vII>0.00</vII>
+          <vIPI>278.48</vIPI>
+          <vIPIDevol>0.00</vIPIDevol>
+          <vPIS>91.90</vPIS>
+          <vCOFINS>423.28</vCOFINS>
+          <vOutro>0.00</vOutro>
+          <vNF>5847.98</vNF>
+        </ICMSTot>
+      </total>
+      <transp>
+        <modFrete>0</modFrete>
+      </transp>
+      <pag>
+        <detPag>
+          <tPag>15</tPag>
+          <vPag>5847.98</vPag>
+        </detPag>
+      </pag>
+      <infAdic>
+        <infCpl>Documento fictício gerado para portfólio - sem valor fiscal.</infCpl>
+      </infAdic>
+    </infNFe>
+  </NFe>
+  <protNFe versao="4.00">
+    <infProt>
+      <tpAmb>2</tpAmb>
+      <verAplic>SVRS-FICTICIO</verAplic>
+      <chNFe>35261096865468000118550010000797841366813704</chNFe>
+      <dhRecbto>2026-10-20T11:42:00-03:00</dhRecbto>
+      <nProt>352364699335217</nProt>
+      <cStat>100</cStat>
+      <xMotivo>Autorizado o uso da NF-e</xMotivo>
+    </infProt>
+  </protNFe>
+</nfeProc>

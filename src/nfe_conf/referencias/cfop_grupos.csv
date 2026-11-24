@@ -1,0 +1,7 @@
+primeiro_digito,fluxo,abrangencia,descricao
+1,entrada,estadual,Entrada ou aquisição dentro do estado
+2,entrada,interestadual,Entrada ou aquisição de outro estado
+3,entrada,exterior,Entrada ou aquisição do exterior
+5,saida,estadual,Saída ou venda para dentro do estado
+6,saida,interestadual,Saída ou venda para outro estado
+7,saida,exterior,Saída ou venda para o exterior

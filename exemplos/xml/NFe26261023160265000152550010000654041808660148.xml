@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='utf-8'?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+  <NFe>
+    <infNFe Id="NFe26261023160265000152550010000654041808660148" versao="4.00">
+      <ide>
+        <cUF>26</cUF>
+        <cNF>80866014</cNF>
+        <natOp>Venda de mercadoria</natOp>
+        <mod>55</mod>
+        <serie>1</serie>
+        <nNF>65404</nNF>
+        <dhEmi>2026-10-28T10:50:00-03:00</dhEmi>
+        <tpNF>1</tpNF>
+        <idDest>2</idDest>
+        <cMunFG>2611606</cMunFG>
+        <tpImp>1</tpImp>
+        <tpEmis>1</tpEmis>
+        <cDV>8</cDV>
+        <tpAmb>2</tpAmb>
+        <finNFe>1</finNFe>
+        <indFinal>0</indFinal>
+        <indPres>9</indPres>
+        <procEmi>0</procEmi>
+        <verProc>gerador-ficticio 1.0</verProc>
+      </ide>
+      <emit>
+        <CNPJ>23160265000152</CNPJ>
+        <xNome>Embalagens Capibaribe Fictícia Ltda</xNome>
+        <enderEmit>
+          <xLgr>Avenida das Indústrias</xLgr>
+          <nro>2235</nro>
+          <xBairro>Distrito Industrial</xBairro>
+          <cMun>2611606</cMun>
+          <xMun>Recife</xMun>
+          <UF>PE</UF>
+          <CEP>50030111</CEP>
+          <cPais>1058</cPais>
+          <xPais>Brasil</xPais>
+        </enderEmit>
+        <IE>582813204</IE>
+        <CRT>3</CRT>
+      </emit>
+      <dest>
+        <CNPJ>25988000000172</CNPJ>
+        <xNome>NF-E EMITIDA EM AMBIENTE DE HOMOLOGACAO - SEM VALOR FISCAL</xNome>
+        <enderDest>
+          <xLgr>Avenida das Indústrias</xLgr>
+          <nro>154</nro>
+          <xBairro>Distrito Industrial</xBairro>
+          <cMun>5208707</cMun>
+          <xMun>Goiânia</xMun>
+          <UF>GO</UF>
+          <CEP>74000614</CEP>
+          <cPais>1058</cPais>
+          <xPais>Brasil</xPais>
+        </enderDest>
+        <indIEDest>1</indIEDest>
+        <IE>443043868</IE>
+      </dest>
+      <det nItem="1">
+        <prod>
+          <cProd>EC-CX40</cProd>
+          <cEAN>SEM GTIN</cEAN>
+          <xProd>Caixa de papelão ondulado 40x30x30</xProd>
+          <NCM>48191000</NCM>
+          <CFOP>6102</CFOP>
+          <uCom>UN</uCom>
+          <qCom>1.0000</qCom>
+          <vUnCom>4.8300</vUnCom>
+          <vProd>4.83</vProd>
+          <cEANTrib>SEM GTIN</cEANTrib>
+          <uTrib>UN</uTrib>
+          <qTrib>1.0000</qTrib>
+          <vUnTrib>4.8300</vUnTrib>
+          <indTot>1</indTot>
+        </prod>
+        <imposto>
+          <ICMS>
+            <ICMS00>
+              <orig>0</orig>
+              <CST>00</CST>
+              <modBC>3</modBC>
+              <vBC>4.83</vBC>
+              <pICMS>12.0000</pICMS>
+              <vICMS>0.58</vICMS>
+            </ICMS00>
+          </ICMS>
+          <PIS>
+            <PISAliq>
+              <CST>01</CST>
+              <vBC>4.83</vBC>
+              <pPIS>1.6500</pPIS>
+              <vPIS>0.08</vPIS>
+            </PISAliq>
+          </PIS>
+          <COFINS>
+            <COFINSAliq>
+              <CST>01</CST>
+              <vBC>4.83</vBC>
+              <pCOFINS>7.6000</pCOFINS>
+              <vCOFINS>0.37</vCOFINS>
+            </COFINSAliq>
+          </COFINS>
+        </imposto>
+      </det>
+      <det nItem="2">
+        <prod>
+          <cProd>EC-CX60</cProd>
+          <cEAN>SEM GTIN</cEAN>
+          <xProd>Caixa de papelão ondulado 60x40x40</xProd>
+          <NCM>48191000</NCM>
+          <CFOP>6102</CFOP>
+          <uCom>UN</uCom>
+          <qCom>100.0000</qCom>
+          <vUnCom>7.5600</vUnCom>
+          <vProd>756.00</vProd>
+          <cEANTrib>SEM GTIN</cEANTrib>
+          <uTrib>UN</uTrib>
+          <qTrib>100.0000</qTrib>
+          <vUnTrib>7.5600</vUnTrib>
+          <vDesc>22.68</vDesc>
+          <indTot>1</indTot>
+        </prod>
+        <imposto>
+          <ICMS>
+            <ICMS00>
+              <orig>0</orig>
+              <CST>00</CST>
+              <modBC>3</modBC>
+              <vBC>733.32</vBC>
+              <pICMS>12.0000</pICMS>
+              <vICMS>88.00</vICMS>
+            </ICMS00>
+          </ICMS>
+          <PIS>
+            <PISAliq>
+              <CST>01</CST>
+              <vBC>733.32</vBC>
+              <pPIS>1.6500</pPIS>
+              <vPIS>12.10</vPIS>
+            </PISAliq>
+          </PIS>
+          <COFINS>
+            <COFINSAliq>
+              <CST>01</CST>
+              <vBC>733.32</vBC>
+              <pCOFINS>7.6000</pCOFINS>
+              <vCOFINS>55.73</vCOFINS>
+            </COFINSAliq>
+          </COFINS>
+        </imposto>
+      </det>
+      <total>
+        <ICMSTot>
+          <vBC>738.15</vBC>
+          <vICMS>88.58</vICMS>
+          <vICMSDeson>0.00</vICMSDeson>
+          <vFCP>0.00</vFCP>
+          <vBCST>0.00</vBCST>
+          <vST>0.00</vST>
+          <vFCPST>0.00</vFCPST>
+          <vFCPSTRet>0.00</vFCPSTRet>
+          <vProd>760.83</vProd>
+          <vFrete>0.00</vFrete>
+          <vSeg>0.00</vSeg>
+          <vDesc>22.68</vDesc>
+          <vII>0.00</vII>
+          <vIPI>0.00</vIPI>
+          <vIPIDevol>0.00</vIPIDevol>
+          <vPIS>12.18</vPIS>
+          <vCOFINS>56.10</vCOFINS>
+          <vOutro>0.00</vOutro>
+          <vNF>738.15</vNF>
+        </ICMSTot>
+      </total>
+      <transp>
+        <modFrete>0</modFrete>
+      </transp>
+      <pag>
+        <detPag>
+          <tPag>15</tPag>
+          <vPag>738.15</vPag>
+        </detPag>
+      </pag>
+      <infAdic>
+        <infCpl>Documento fictício gerado para portfólio - sem valor fiscal.</infCpl>
+      </infAdic>
+    </infNFe>
+  </NFe>
+  <protNFe versao="4.00">
+    <infProt>
+      <tpAmb>2</tpAmb>
+      <verAplic>SVRS-FICTICIO</verAplic>
+      <chNFe>26261023160265000152550010000654041808660148</chNFe>
+      <dhRecbto>2026-10-28T10:50:00-03:00</dhRecbto>
+      <nProt>262467318411382</nProt>
+      <cStat>100</cStat>
+      <xMotivo>Autorizado o uso da NF-e</xMotivo>
+    </infProt>
+  </protNFe>
+</nfeProc>

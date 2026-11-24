@@ -1,0 +1,198 @@
+{
+  "gerado_em": "2026-11-01T00:00:00",
+  "observacao": "Divergências plantadas de propósito pelo gerador (dados fictícios).",
+  "divergencias": [
+    {
+      "codigo": "ICMS_BASE",
+      "emit_cnpj": "96865468000118",
+      "numero": 79817,
+      "serie": 1
+    },
+    {
+      "codigo": "ICMS_BASE",
+      "emit_cnpj": "52175656000149",
+      "numero": 34028,
+      "serie": 1
+    },
+    {
+      "codigo": "ICMS_BASE",
+      "emit_cnpj": "92437103000131",
+      "numero": 38692,
+      "serie": 1
+    },
+    {
+      "codigo": "ICMS_ALIQ_INTERESTADUAL",
+      "emit_cnpj": "96865468000118",
+      "numero": 79871,
+      "serie": 1
+    },
+    {
+      "codigo": "ICMS_ALIQ_INTERESTADUAL",
+      "emit_cnpj": "96865468000118",
+      "numero": 79778,
+      "serie": 1
+    },
+    {
+      "codigo": "ICMS_ALIQ_INTERESTADUAL",
+      "emit_cnpj": "23160265000152",
+      "numero": 65335,
+      "serie": 1
+    },
+    {
+      "codigo": "CFOP_OPERACAO",
+      "emit_cnpj": "88721495000199",
+      "numero": 1434,
+      "serie": 1
+    },
+    {
+      "codigo": "CFOP_OPERACAO",
+      "emit_cnpj": "92437103000131",
+      "numero": 38728,
+      "serie": 1
+    },
+    {
+      "codigo": "CFOP_OPERACAO",
+      "emit_cnpj": "52175656000149",
+      "numero": 34024,
+      "serie": 1
+    },
+    {
+      "codigo": "PIS_COFINS_ALIQUOTA",
+      "emit_cnpj": "93414184000117",
+      "numero": 76186,
+      "serie": 1
+    },
+    {
+      "codigo": "PIS_COFINS_ALIQUOTA",
+      "emit_cnpj": "52175656000149",
+      "numero": 33966,
+      "serie": 1
+    },
+    {
+      "codigo": "PIS_COFINS_ALIQUOTA",
+      "emit_cnpj": "96865468000118",
+      "numero": 79790,
+      "serie": 1
+    },
+    {
+      "codigo": "NCM_INVALIDO",
+      "emit_cnpj": "23160265000152",
+      "numero": 65296,
+      "serie": 1
+    },
+    {
+      "codigo": "NCM_INVALIDO",
+      "emit_cnpj": "96865468000118",
+      "numero": 79784,
+      "serie": 1
+    },
+    {
+      "codigo": "TOTAL_NOTA",
+      "emit_cnpj": "56661846000127",
+      "numero": 50328,
+      "serie": 1
+    },
+    {
+      "codigo": "TOTAL_NOTA",
+      "emit_cnpj": "88721495000199",
+      "numero": 1367,
+      "serie": 1
+    },
+    {
+      "codigo": "CHAVE_DV",
+      "emit_cnpj": "78932553000170",
+      "numero": 45669,
+      "serie": 1
+    },
+    {
+      "codigo": "CHAVE_DV",
+      "emit_cnpj": "52175656000149",
+      "numero": 33994,
+      "serie": 1
+    },
+    {
+      "codigo": "NOTA_DUPLICADA",
+      "emit_cnpj": "83526008000113",
+      "numero": 65370,
+      "serie": 1
+    },
+    {
+      "codigo": "NOTA_DUPLICADA",
+      "emit_cnpj": "56661846000127",
+      "numero": 50361,
+      "serie": 1
+    },
+    {
+      "codigo": "ERP_NAO_LANCADA",
+      "emit_cnpj": "88721495000199",
+      "numero": 1332,
+      "serie": 1
+    },
+    {
+      "codigo": "ERP_VALOR_DIVERGENTE",
+      "emit_cnpj": "78932553000170",
+      "numero": 45616,
+      "serie": 1
+    },
+    {
+      "codigo": "ERP_NAO_LANCADA",
+      "emit_cnpj": "93414184000117",
+      "numero": 76077,
+      "serie": 1
+    },
+    {
+      "codigo": "ERP_DUPLICIDADE",
+      "emit_cnpj": "92437103000131",
+      "numero": 38722,
+      "serie": 1
+    },
+    {
+      "codigo": "ERP_VALOR_DIVERGENTE",
+      "emit_cnpj": "23160265000152",
+      "numero": 65343,
+      "serie": 1
+    },
+    {
+      "codigo": "ERP_DUPLICIDADE",
+      "emit_cnpj": "52175656000149",
+      "numero": 34004,
+      "serie": 1
+    },
+    {
+      "codigo": "ERP_ICMS_DIVERGENTE",
+      "emit_cnpj": "93414184000117",
+      "numero": 76152,
+      "serie": 1
+    },
+    {
+      "codigo": "ERP_VALOR_DIVERGENTE",
+      "emit_cnpj": "96865468000118",
+      "numero": 79861,
+      "serie": 1
+    },
+    {
+      "codigo": "ERP_NAO_LANCADA",
+      "emit_cnpj": "83526008000113",
+      "numero": 65423,
+      "serie": 1
+    },
+    {
+      "codigo": "ERP_NAO_LANCADA",
+      "emit_cnpj": "23160265000152",
+      "numero": 65404,
+      "serie": 1
+    },
+    {
+      "codigo": "ERP_SEM_XML",
+      "emit_cnpj": "78932553000170",
+      "numero": 45676,
+      "serie": 1
+    },
+    {
+      "codigo": "ERP_SEM_XML",
+      "emit_cnpj": "83526008000113",
+      "numero": 65469,
+      "serie": 1
+    }
+  ]
+}

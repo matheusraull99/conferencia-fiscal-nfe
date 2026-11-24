@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='utf-8'?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+  <NFe>
+    <infNFe Id="NFe35261056661846000127550010000503881268687468" versao="4.00">
+      <ide>
+        <cUF>35</cUF>
+        <cNF>26868746</cNF>
+        <natOp>Venda de mercadoria</natOp>
+        <mod>55</mod>
+        <serie>1</serie>
+        <nNF>50388</nNF>
+        <dhEmi>2026-10-02T17:14:00-03:00</dhEmi>
+        <tpNF>1</tpNF>
+        <idDest>2</idDest>
+        <cMunFG>3509502</cMunFG>
+        <tpImp>1</tpImp>
+        <tpEmis>1</tpEmis>
+        <cDV>8</cDV>
+        <tpAmb>2</tpAmb>
+        <finNFe>1</finNFe>
+        <indFinal>0</indFinal>
+        <indPres>9</indPres>
+        <procEmi>0</procEmi>
+        <verProc>gerador-ficticio 1.0</verProc>
+      </ide>
+      <emit>
+        <CNPJ>56661846000127</CNPJ>
+        <xNome>Papelaria Ipê Fictícia ME</xNome>
+        <enderEmit>
+          <xLgr>Avenida das Indústrias</xLgr>
+          <nro>1777</nro>
+          <xBairro>Distrito Industrial</xBairro>
+          <cMun>3509502</cMun>
+          <xMun>Campinas</xMun>
+          <UF>SP</UF>
+          <CEP>13010924</CEP>
+          <cPais>1058</cPais>
+          <xPais>Brasil</xPais>
+        </enderEmit>
+        <IE>482935044</IE>
+        <CRT>1</CRT>
+      </emit>
+      <dest>
+        <CNPJ>25988000000172</CNPJ>
+        <xNome>NF-E EMITIDA EM AMBIENTE DE HOMOLOGACAO - SEM VALOR FISCAL</xNome>
+        <enderDest>
+          <xLgr>Avenida das Indústrias</xLgr>
+          <nro>2845</nro>
+          <xBairro>Distrito Industrial</xBairro>
+          <cMun>5208707</cMun>
+          <xMun>Goiânia</xMun>
+          <UF>GO</UF>
+          <CEP>74000614</CEP>
+          <cPais>1058</cPais>
+          <xPais>Brasil</xPais>
+        </enderDest>
+        <indIEDest>1</indIEDest>
+        <IE>443043868</IE>
+      </dest>
+      <det nItem="1">
+        <prod>
+          <cProd>PI-CN</cProd>
+          <cEAN>SEM GTIN</cEAN>
+          <xProd>Caneta esferográfica azul cx 50</xProd>
+          <NCM>96081000</NCM>
+          <CFOP>6102</CFOP>
+          <uCom>CX</uCom>
+          <qCom>24.0000</qCom>
+          <vUnCom>39.3000</vUnCom>
+          <vProd>943.20</vProd>
+          <cEANTrib>SEM GTIN</cEANTrib>
+          <uTrib>CX</uTrib>
+          <qTrib>24.0000</qTrib>
+          <vUnTrib>39.3000</vUnTrib>
+          <indTot>1</indTot>
+        </prod>
+        <imposto>
+          <ICMS>
+            <ICMSSN102>
+              <orig>0</orig>
+              <CSOSN>102</CSOSN>
+            </ICMSSN102>
+          </ICMS>
+          <PIS>
+            <PISOutr>
+              <CST>99</CST>
+              <vBC>0.00</vBC>
+              <pPIS>0.0000</pPIS>
+              <vPIS>0.00</vPIS>
+            </PISOutr>
+          </PIS>
+          <COFINS>
+            <COFINSOutr>
+              <CST>99</CST>
+              <vBC>0.00</vBC>
+              <pCOFINS>0.0000</pCOFINS>
+              <vCOFINS>0.00</vCOFINS>
+            </COFINSOutr>
+          </COFINS>
+        </imposto>
+      </det>
+      <det nItem="2">
+        <prod>
+          <cProd>PI-A4</cProd>
+          <cEAN>SEM GTIN</cEAN>
+          <xProd>Papel sulfite A4 resma 500 fls</xProd>
+          <NCM>48025610</NCM>
+          <CFOP>6102</CFOP>
+          <uCom>RM</uCom>
+          <qCom>24.0000</qCom>
+          <vUnCom>26.5700</vUnCom>
+          <vProd>637.68</vProd>
+          <cEANTrib>SEM GTIN</cEANTrib>
+          <uTrib>RM</uTrib>
+          <qTrib>24.0000</qTrib>
+          <vUnTrib>26.5700</vUnTrib>
+          <indTot>1</indTot>
+        </prod>
+        <imposto>
+          <ICMS>
+            <ICMSSN102>
+              <orig>0</orig>
+              <CSOSN>102</CSOSN>
+            </ICMSSN102>
+          </ICMS>
+          <PIS>
+            <PISOutr>
+              <CST>99</CST>
+              <vBC>0.00</vBC>
+              <pPIS>0.0000</pPIS>
+              <vPIS>0.00</vPIS>
+            </PISOutr>
+          </PIS>
+          <COFINS>
+            <COFINSOutr>
+              <CST>99</CST>
+              <vBC>0.00</vBC>
+              <pCOFINS>0.0000</pCOFINS>
+              <vCOFINS>0.00</vCOFINS>
+            </COFINSOutr>
+          </COFINS>
+        </imposto>
+      </det>
+      <total>
+        <ICMSTot>
+          <vBC>0.00</vBC>
+          <vICMS>0.00</vICMS>
+          <vICMSDeson>0.00</vICMSDeson>
+          <vFCP>0.00</vFCP>
+          <vBCST>0.00</vBCST>
+          <vST>0.00</vST>
+          <vFCPST>0.00</vFCPST>
+          <vFCPSTRet>0.00</vFCPSTRet>
+          <vProd>1580.88</vProd>
+          <vFrete>0.00</vFrete>
+          <vSeg>0.00</vSeg>
+          <vDesc>0.00</vDesc>
+          <vII>0.00</vII>
+          <vIPI>0.00</vIPI>
+          <vIPIDevol>0.00</vIPIDevol>
+          <vPIS>0.00</vPIS>
+          <vCOFINS>0.00</vCOFINS>
+          <vOutro>0.00</vOutro>
+          <vNF>1580.88</vNF>
+        </ICMSTot>
+      </total>
+      <transp>
+        <modFrete>0</modFrete>
+      </transp>
+      <pag>
+        <detPag>
+          <tPag>15</tPag>
+          <vPag>1580.88</vPag>
+        </detPag>
+      </pag>
+      <infAdic>
+        <infCpl>Documento fictício gerado para portfólio - sem valor fiscal.</infCpl>
+      </infAdic>
+    </infNFe>
+  </NFe>
+  <protNFe versao="4.00">
+    <infProt>
+      <tpAmb>2</tpAmb>
+      <verAplic>SVRS-FICTICIO</verAplic>
+      <chNFe>35261056661846000127550010000503881268687468</chNFe>
+      <dhRecbto>2026-10-02T17:14:00-03:00</dhRecbto>
+      <nProt>352677341274965</nProt>
+      <cStat>100</cStat>
+      <xMotivo>Autorizado o uso da NF-e</xMotivo>
+    </infProt>
+  </protNFe>
+</nfeProc>
